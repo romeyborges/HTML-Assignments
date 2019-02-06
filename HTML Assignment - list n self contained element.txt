@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title> Romanus N Borges </title>
+	<center> <div style="color:red;"><h1> HTML assignment </h1> <hr/> </div> </center>
+</head>
+
+<body>
+	<h2 style="color:blue;""font-size:26px"> Lists of vehicles for sale </h2>
+
+	<ul>
+		 <li>Subaru WRX STI : 1.5m </li>
+		 <li>Maserati Ghibli : 10.2m </li> 
+		 <li>Chevrolete corvette c3 : 3.5m </li> 
+		 <li>Toyota supra '92 : 800,000/- </li> 
+	</ul>
+
+	<h2 style="color:green;""font-size:26px"> Self contained elements </h2>
+	
+
+	<article class="forecast">
+    		<h3>Weather forecast for Seattle</h3>
+   	 	
+		<article class="day-forecast">
+        		<h4>07 February 2019</h4>
+        		<p>Rainy.</p>
+    		</article>
+    	
+		<article class="day-forecast">
+        		<h4>08 February 2019</h4>
+        		<p>Periods of rain.</p>
+    		</article>
+    
+		<article class="day-forecast">
+       			<h4>09 February 2019</h4>
+        		<p>Heavy rain.</p>
+    		</article>
+	</article>
+
+	<center> <img src="pic.jpg" height="300px" width="500px"/> </center>
+</body>
+</html>
